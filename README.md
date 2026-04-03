@@ -1,14 +1,20 @@
 # GB28181-2022
 ## GB28181-2022 PDF文档，相比从国家标准库下载的文档，本文档有如优点：
+
 1️⃣ 无损压缩，高清扫描
+
 2️⃣ 支持全文检索，想要的内容一步到位
+
 3️⃣ 支持选择复制（官方文档复制后是一串密文）
+
 4️⃣ 支持完整目录，🔥🔥全网最全目录，纯手动生成，完整校对
+
 5️⃣ 内容精校，保持原汁原味的排版
 
 ### 界面一览 👀
 
 <img width="2116" height="1239" alt="image" src="https://github.com/user-attachments/assets/e5882a84-563d-4946-86da-a4f1165a7684" />
+
 
 ⏬ 点我下载 ⏬
 
@@ -27,6 +33,5 @@
 
 ☕️ 如果觉得本文档对你有帮助，请我喝杯咖啡？ ☕️
 
-
-![4690be2002251d77de00f73c7cff0413](https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b)
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b" />
 
