@@ -33,5 +33,5 @@
 
 ☕️ 如果觉得本文档对你有帮助，请我喝杯咖啡？ ☕️
 
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b" />
+   <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b" />
 
