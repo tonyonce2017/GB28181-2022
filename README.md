@@ -1,5 +1,5 @@
-# GB28181-2022
-## GB28181-2022 PDF文档，相比从国家标准库下载的文档，本文档有如优点：
+# GB/T 28181-2022
+## GB/T 28181-2022 PDF文档，相比从国家标准库下载的文档，本文档有如优点：
 
 1️⃣ 无损压缩，高清扫描
 
@@ -16,7 +16,7 @@
 <img width="2116" height="1239" alt="image" src="https://github.com/user-attachments/assets/e5882a84-563d-4946-86da-a4f1165a7684" />
 
 
-⏬ 点我下载 ⏬
+⏬ [点我下载](https://github.com/tonyonce2017/GB28181-2022/releases/download/v1.0/GBT.28181-2022.pdf) ⏬
 
 ## 那么如何直接下载国家标准的文档？
 1. 打开[国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/)
@@ -33,5 +33,5 @@
 
 ☕️ 如果觉得本文档对你有帮助，请我喝杯咖啡？ ☕️
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/8a4619d4-95a2-42dc-ad27-4a1dfa5e9f2b" />
 
